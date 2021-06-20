@@ -11,6 +11,7 @@ object HelloWorld {
   def main(args: Array[String]): Unit = {
     println("Hello World!")
     println("hello git")
+    println("hello hot-fix test")
     println("hello hot-fix test fail")
   }
 
